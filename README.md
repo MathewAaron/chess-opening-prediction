@@ -19,3 +19,15 @@ Since there were multiple hundred openings, only the top 10 most popular were us
 We developed a 5 layer fully connected CNN architecture with RELU activation.
 Each layer consists of a convolutional layer, a maxpooling layer, a batch normalization layer, and a ReLu activation function
 The output is then fed into a fully connected network that uses batch normalization, ReLu, and Dropout
+
+## Training Loss
+
+<img width="540" alt="Screen Shot 2022-07-01 at 9 26 58 AM" src="https://user-images.githubusercontent.com/71589098/176904257-288464f9-2fd0-476c-b0dd-8b3711eb91b3.png">
+
+## Accuracy
+
+<img width="789" alt="Screen Shot 2022-07-01 at 9 26 39 AM" src="https://user-images.githubusercontent.com/71589098/176904410-36a440c3-b1cc-4d94-938f-25eae013b866.png">
+
+## LOSS curve
+
+![Unknown](https://user-images.githubusercontent.com/71589098/176904630-ba8b9421-0ade-440c-a59a-66976ca46cb1.png)
