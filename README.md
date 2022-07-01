@@ -28,6 +28,11 @@ The output is then fed into a fully connected network that uses batch normalizat
 
 <img width="789" alt="Screen Shot 2022-07-01 at 9 26 39 AM" src="https://user-images.githubusercontent.com/71589098/176904410-36a440c3-b1cc-4d94-938f-25eae013b866.png">
 
-## LOSS curve
+## LOSS curve for CNN
 
 ![Unknown](https://user-images.githubusercontent.com/71589098/176904630-ba8b9421-0ade-440c-a59a-66976ca46cb1.png)
+
+## Confusion matrix and loss curve for LSTM
+
+<img width="848" alt="Screen Shot 2022-07-01 at 9 35 40 AM" src="https://user-images.githubusercontent.com/71589098/176905366-eb233854-cd4d-48e0-842c-59e760a7c3ad.png">
+
