@@ -32,6 +32,11 @@ The output is then fed into a fully connected network that uses batch normalizat
 
 ![Unknown](https://user-images.githubusercontent.com/71589098/176904630-ba8b9421-0ade-440c-a59a-66976ca46cb1.png)
 
+## Confusing Matrix for CNN and Random Forrest (Base Classifier)
+
+<img width="851" alt="Screen Shot 2022-07-01 at 9 37 18 AM" src="https://user-images.githubusercontent.com/71589098/176905853-58533f14-bf20-4e1b-bca2-2e70c9c08d58.png">
+
+
 ## Confusion matrix and loss curve for LSTM
 
 <img width="848" alt="Screen Shot 2022-07-01 at 9 35 40 AM" src="https://user-images.githubusercontent.com/71589098/176905366-eb233854-cd4d-48e0-842c-59e760a7c3ad.png">
